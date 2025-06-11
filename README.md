@@ -14,15 +14,10 @@ How to Use
  * On the first launch, you'll be prompted to enter your Gemini API key – it will be saved locally in localStorage (and only for you).
  * Chat with the AI like a cool conversational partner!
 > Where to get a key?
-> Go to Google AI Studio → Settings → API key
-> 
-Hosting via GitHub Pages
- * Create a repository, for example, gemini-client.
- * Upload gemini-client.html to it.
- * Go to Settings → Pages, select the main branch and the /root folder.
- * Get a link like: https://<your-username>.github.io/gemini-client/.
+> Go to Google AI Studio → Settings → API key.
 Security
 The API key is stored only in the user's browser and is not sent anywhere except in requests to the Google API. However, since this is a client-side application, it's not recommended to use sensitive or paid keys without restrictions.
+
 Author
 Developed with love
 Hamon Tech
